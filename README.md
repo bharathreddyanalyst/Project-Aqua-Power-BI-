@@ -17,14 +17,14 @@ C.Evaluated top-performing countries and customers, highlighting France as the l
 D. Analysed Incoterms contribution, identifying 79.15% sales concentration under “Carriage Paid” transactions.
 
 
-2. Customer Performance Dashboard
+3. Customer Performance Dashboard
    
 A.Monitored 3.18K customers and calculated £32.23K average revenue per customer using DAX measures.
 B.Identified top 5 customers contributing 62.24% of total revenue, supporting customer segmentation analysis.
 C.Built country-wise customer distribution and growth analysis dashboards to evaluate regional customer profitability.
 D.Developed Year-on-Year growth trend analysis showing customer growth exceeding 1189% by December.
 
-3.Product Performance Dashboard
+4.Product Performance Dashboard
 
 A.Analysed 60 product categories generating £102.63M total product sales with 6.84% YOY product growth.
 B.Calculated £1.71M average revenue per product using advanced Power BI measures and KPI modelling.
